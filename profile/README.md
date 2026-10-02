@@ -18,8 +18,8 @@
 
 Apps, Postgres, Redis y buckets compatibles con S3 en un solo lugar, con deploy desde GitHub, una imagen de Docker o directo desde tu agente.
 
-**Para agentes:** servidor MCP en `https://api.olimpia.dev/mcp` y la skill oficial en [olimpia-skills](https://github.com/Rehelios/olimpia-skills).
+**Para agentes:** servidor MCP en `https://api.olimpia.dev/mcp` y la skill oficial en [olimpia-skills](https://github.com/olimpiacloud/olimpia-skills).
 
 ```
-/plugin marketplace add Rehelios/olimpia-skills
+/plugin marketplace add olimpiacloud/olimpia-skills
 ```
