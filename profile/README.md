@@ -23,3 +23,8 @@ Apps, Postgres, Redis y buckets compatibles con S3 en un solo lugar, con deploy 
 ```
 /plugin marketplace add olimpiacloud/olimpia-skills
 ```
+
+## Productos
+
+- **[Agora](https://agora.olimpia.dev)**: escritorios Linux reales para agentes de IA, con navegador, apps y control humano cuando hace falta.
+- **[Acropolis](https://github.com/olimpiacloud/acropolis)** ![experimental](https://img.shields.io/badge/-experimental-d0784f): de código fuente a imagen OCI, sin Dockerfile ni daemon. Docs en [acropolis.olimpia.dev](https://acropolis.olimpia.dev).
